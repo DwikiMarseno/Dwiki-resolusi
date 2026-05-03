@@ -1,2 +1,2 @@
 # Dwiki-resolusi
-repository for my future
+Bismilah repository for my future
