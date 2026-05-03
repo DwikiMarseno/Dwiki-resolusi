@@ -1,2 +1,2 @@
 # Dwiki-resolusi
-Bismilah repository for my future
+Bismilah hirohman nirohim repository for my future
